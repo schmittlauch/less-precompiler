@@ -1,9 +1,6 @@
 [submodule "node_modules/less"]
 	path = node_modules/less
 	url = https://github.com/less/less.js
-[submodule "node_modules/async"]
-	path = node_modules/async
-	url = https://github.com/kanso/async
 [submodule "node_modules/kanso-utils"]
 	path = node_modules/kanso-utils
 	url = https://github.com/kanso/kanso-utils
